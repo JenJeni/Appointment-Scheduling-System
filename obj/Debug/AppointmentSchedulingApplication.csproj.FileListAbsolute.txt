@@ -1,0 +1,253 @@
+C:\Users\jhenj\source\repos\AppointmentSchedulingApplication\bin\Debug\AppointmentSchedulingApplication.exe.config
+C:\Users\jhenj\source\repos\AppointmentSchedulingApplication\bin\Debug\AppointmentSchedulingApplication.exe
+C:\Users\jhenj\source\repos\AppointmentSchedulingApplication\bin\Debug\AppointmentSchedulingApplication.pdb
+C:\Users\jhenj\source\repos\AppointmentSchedulingApplication\bin\Debug\BouncyCastle.Crypto.dll
+C:\Users\jhenj\source\repos\AppointmentSchedulingApplication\bin\Debug\Google.Protobuf.dll
+C:\Users\jhenj\source\repos\AppointmentSchedulingApplication\bin\Debug\K4os.Compression.LZ4.dll
+C:\Users\jhenj\source\repos\AppointmentSchedulingApplication\bin\Debug\K4os.Compression.LZ4.Streams.dll
+C:\Users\jhenj\source\repos\AppointmentSchedulingApplication\bin\Debug\K4os.Hash.xxHash.dll
+C:\Users\jhenj\source\repos\AppointmentSchedulingApplication\bin\Debug\MySql.Data.dll
+C:\Users\jhenj\source\repos\AppointmentSchedulingApplication\bin\Debug\System.Buffers.dll
+C:\Users\jhenj\source\repos\AppointmentSchedulingApplication\bin\Debug\System.Memory.dll
+C:\Users\jhenj\source\repos\AppointmentSchedulingApplication\bin\Debug\System.Numerics.Vectors.dll
+C:\Users\jhenj\source\repos\AppointmentSchedulingApplication\bin\Debug\System.Runtime.CompilerServices.Unsafe.dll
+C:\Users\jhenj\source\repos\AppointmentSchedulingApplication\bin\Debug\Ubiety.Dns.Core.dll
+C:\Users\jhenj\source\repos\AppointmentSchedulingApplication\bin\Debug\ZstdNet.dll
+C:\Users\jhenj\source\repos\AppointmentSchedulingApplication\bin\Debug\BouncyCastle.Crypto.xml
+C:\Users\jhenj\source\repos\AppointmentSchedulingApplication\bin\Debug\Google.Protobuf.pdb
+C:\Users\jhenj\source\repos\AppointmentSchedulingApplication\bin\Debug\Google.Protobuf.xml
+C:\Users\jhenj\source\repos\AppointmentSchedulingApplication\bin\Debug\K4os.Compression.LZ4.xml
+C:\Users\jhenj\source\repos\AppointmentSchedulingApplication\bin\Debug\K4os.Compression.LZ4.Streams.xml
+C:\Users\jhenj\source\repos\AppointmentSchedulingApplication\bin\Debug\K4os.Hash.xxHash.xml
+C:\Users\jhenj\source\repos\AppointmentSchedulingApplication\bin\Debug\MySql.Data.xml
+C:\Users\jhenj\source\repos\AppointmentSchedulingApplication\bin\Debug\System.Buffers.xml
+C:\Users\jhenj\source\repos\AppointmentSchedulingApplication\bin\Debug\System.Memory.xml
+C:\Users\jhenj\source\repos\AppointmentSchedulingApplication\bin\Debug\System.Numerics.Vectors.xml
+C:\Users\jhenj\source\repos\AppointmentSchedulingApplication\bin\Debug\System.Runtime.CompilerServices.Unsafe.xml
+C:\Users\jhenj\source\repos\AppointmentSchedulingApplication\obj\Debug\AppointmentSchedulingApplication.Properties.Resources.resources
+C:\Users\jhenj\source\repos\AppointmentSchedulingApplication\obj\Debug\AppointmentSchedulingApplication.Views.AppointmentAdd.resources
+C:\Users\jhenj\source\repos\AppointmentSchedulingApplication\obj\Debug\AppointmentSchedulingApplication.Views.AppointmentUpdate.resources
+C:\Users\jhenj\source\repos\AppointmentSchedulingApplication\obj\Debug\AppointmentSchedulingApplication.Views.ApptTypeReport.resources
+C:\Users\jhenj\source\repos\AppointmentSchedulingApplication\obj\Debug\AppointmentSchedulingApplication.Views.CustomerAdd.resources
+C:\Users\jhenj\source\repos\AppointmentSchedulingApplication\obj\Debug\AppointmentSchedulingApplication.Views.CustomerCountReport.resources
+C:\Users\jhenj\source\repos\AppointmentSchedulingApplication\obj\Debug\AppointmentSchedulingApplication.Views.CustomerUpdate.resources
+C:\Users\jhenj\source\repos\AppointmentSchedulingApplication\obj\Debug\AppointmentSchedulingApplication.Views.Dashboard.resources
+C:\Users\jhenj\source\repos\AppointmentSchedulingApplication\obj\Debug\AppointmentSchedulingApplication.Views.Login.resources
+C:\Users\jhenj\source\repos\AppointmentSchedulingApplication\obj\Debug\AppointmentSchedulingApplication.csproj.GenerateResource.cache
+C:\Users\jhenj\source\repos\AppointmentSchedulingApplication\obj\Debug\AppointmentSchedulingApplication.csproj.CoreCompileInputs.cache
+C:\Users\jhenj\source\repos\AppointmentSchedulingApplication\obj\Debug\AppointmentSchedulingApplication.csproj.CopyComplete
+C:\Users\jhenj\source\repos\AppointmentSchedulingApplication\obj\Debug\AppointmentSchedulingApplication.exe
+C:\Users\jhenj\source\repos\AppointmentSchedulingApplication\obj\Debug\AppointmentSchedulingApplication.pdb
+C:\Users\jhenj\source\repos\AppointmentSchedulingApplication\obj\Debug\AppointmentSchedulingApplication.Views.ConsultantSchedule.resources
+C:\Users\jhenj\source\repos\AppointmentSchedulingApplication\obj\Debug\AppointmentSchedulingApplication.csproj.AssemblyReference.cache
+C:\Users\jhenj\Desktop\AppointmentSchedulingApplication\AppointmentSchedulingApplication\bin\Debug\AppointmentSchedulingApplication.exe.config
+C:\Users\jhenj\Desktop\AppointmentSchedulingApplication\AppointmentSchedulingApplication\bin\Debug\AppointmentSchedulingApplication.exe
+C:\Users\jhenj\Desktop\AppointmentSchedulingApplication\AppointmentSchedulingApplication\bin\Debug\AppointmentSchedulingApplication.pdb
+C:\Users\jhenj\Desktop\AppointmentSchedulingApplication\AppointmentSchedulingApplication\bin\Debug\BouncyCastle.Crypto.dll
+C:\Users\jhenj\Desktop\AppointmentSchedulingApplication\AppointmentSchedulingApplication\bin\Debug\Google.Protobuf.dll
+C:\Users\jhenj\Desktop\AppointmentSchedulingApplication\AppointmentSchedulingApplication\bin\Debug\K4os.Compression.LZ4.dll
+C:\Users\jhenj\Desktop\AppointmentSchedulingApplication\AppointmentSchedulingApplication\bin\Debug\K4os.Compression.LZ4.Streams.dll
+C:\Users\jhenj\Desktop\AppointmentSchedulingApplication\AppointmentSchedulingApplication\bin\Debug\K4os.Hash.xxHash.dll
+C:\Users\jhenj\Desktop\AppointmentSchedulingApplication\AppointmentSchedulingApplication\bin\Debug\MySql.Data.dll
+C:\Users\jhenj\Desktop\AppointmentSchedulingApplication\AppointmentSchedulingApplication\bin\Debug\System.Buffers.dll
+C:\Users\jhenj\Desktop\AppointmentSchedulingApplication\AppointmentSchedulingApplication\bin\Debug\System.Memory.dll
+C:\Users\jhenj\Desktop\AppointmentSchedulingApplication\AppointmentSchedulingApplication\bin\Debug\System.Numerics.Vectors.dll
+C:\Users\jhenj\Desktop\AppointmentSchedulingApplication\AppointmentSchedulingApplication\bin\Debug\System.Runtime.CompilerServices.Unsafe.dll
+C:\Users\jhenj\Desktop\AppointmentSchedulingApplication\AppointmentSchedulingApplication\bin\Debug\Ubiety.Dns.Core.dll
+C:\Users\jhenj\Desktop\AppointmentSchedulingApplication\AppointmentSchedulingApplication\bin\Debug\ZstdNet.dll
+C:\Users\jhenj\Desktop\AppointmentSchedulingApplication\AppointmentSchedulingApplication\bin\Debug\BouncyCastle.Crypto.xml
+C:\Users\jhenj\Desktop\AppointmentSchedulingApplication\AppointmentSchedulingApplication\bin\Debug\Google.Protobuf.pdb
+C:\Users\jhenj\Desktop\AppointmentSchedulingApplication\AppointmentSchedulingApplication\bin\Debug\Google.Protobuf.xml
+C:\Users\jhenj\Desktop\AppointmentSchedulingApplication\AppointmentSchedulingApplication\bin\Debug\K4os.Compression.LZ4.xml
+C:\Users\jhenj\Desktop\AppointmentSchedulingApplication\AppointmentSchedulingApplication\bin\Debug\K4os.Compression.LZ4.Streams.xml
+C:\Users\jhenj\Desktop\AppointmentSchedulingApplication\AppointmentSchedulingApplication\bin\Debug\K4os.Hash.xxHash.xml
+C:\Users\jhenj\Desktop\AppointmentSchedulingApplication\AppointmentSchedulingApplication\bin\Debug\MySql.Data.xml
+C:\Users\jhenj\Desktop\AppointmentSchedulingApplication\AppointmentSchedulingApplication\bin\Debug\System.Buffers.xml
+C:\Users\jhenj\Desktop\AppointmentSchedulingApplication\AppointmentSchedulingApplication\bin\Debug\System.Memory.xml
+C:\Users\jhenj\Desktop\AppointmentSchedulingApplication\AppointmentSchedulingApplication\bin\Debug\System.Numerics.Vectors.xml
+C:\Users\jhenj\Desktop\AppointmentSchedulingApplication\AppointmentSchedulingApplication\bin\Debug\System.Runtime.CompilerServices.Unsafe.xml
+C:\Users\jhenj\Desktop\AppointmentSchedulingApplication\AppointmentSchedulingApplication\obj\Debug\AppointmentSchedulingApplication.csproj.AssemblyReference.cache
+C:\Users\jhenj\Desktop\AppointmentSchedulingApplication\AppointmentSchedulingApplication\obj\Debug\AppointmentSchedulingApplication.Properties.Resources.resources
+C:\Users\jhenj\Desktop\AppointmentSchedulingApplication\AppointmentSchedulingApplication\obj\Debug\AppointmentSchedulingApplication.Views.AppointmentAdd.resources
+C:\Users\jhenj\Desktop\AppointmentSchedulingApplication\AppointmentSchedulingApplication\obj\Debug\AppointmentSchedulingApplication.Views.AppointmentUpdate.resources
+C:\Users\jhenj\Desktop\AppointmentSchedulingApplication\AppointmentSchedulingApplication\obj\Debug\AppointmentSchedulingApplication.Views.ApptTypeReport.resources
+C:\Users\jhenj\Desktop\AppointmentSchedulingApplication\AppointmentSchedulingApplication\obj\Debug\AppointmentSchedulingApplication.Views.CustomerAdd.resources
+C:\Users\jhenj\Desktop\AppointmentSchedulingApplication\AppointmentSchedulingApplication\obj\Debug\AppointmentSchedulingApplication.Views.CustomerCountReport.resources
+C:\Users\jhenj\Desktop\AppointmentSchedulingApplication\AppointmentSchedulingApplication\obj\Debug\AppointmentSchedulingApplication.Views.CustomerUpdate.resources
+C:\Users\jhenj\Desktop\AppointmentSchedulingApplication\AppointmentSchedulingApplication\obj\Debug\AppointmentSchedulingApplication.Views.Dashboard.resources
+C:\Users\jhenj\Desktop\AppointmentSchedulingApplication\AppointmentSchedulingApplication\obj\Debug\AppointmentSchedulingApplication.Views.Login.resources
+C:\Users\jhenj\Desktop\AppointmentSchedulingApplication\AppointmentSchedulingApplication\obj\Debug\AppointmentSchedulingApplication.Views.ConsultantSchedule.resources
+C:\Users\jhenj\Desktop\AppointmentSchedulingApplication\AppointmentSchedulingApplication\obj\Debug\AppointmentSchedulingApplication.csproj.GenerateResource.cache
+C:\Users\jhenj\Desktop\AppointmentSchedulingApplication\AppointmentSchedulingApplication\obj\Debug\AppointmentSchedulingApplication.csproj.CoreCompileInputs.cache
+C:\Users\jhenj\Desktop\AppointmentSchedulingApplication\AppointmentSchedulingApplication\obj\Debug\AppointmentSchedulingApplication.csproj.CopyComplete
+C:\Users\jhenj\Desktop\AppointmentSchedulingApplication\AppointmentSchedulingApplication\obj\Debug\AppointmentSchedulingApplication.exe
+C:\Users\jhenj\Desktop\AppointmentSchedulingApplication\AppointmentSchedulingApplication\obj\Debug\AppointmentSchedulingApplication.pdb
+C:\Users\jhenj\Downloads\Coding Projects\AppointmentSchedulingApplication\bin\Debug\AppointmentSchedulingApplication.exe.config
+C:\Users\jhenj\Downloads\Coding Projects\AppointmentSchedulingApplication\bin\Debug\AppointmentSchedulingApplication.exe
+C:\Users\jhenj\Downloads\Coding Projects\AppointmentSchedulingApplication\bin\Debug\AppointmentSchedulingApplication.pdb
+C:\Users\jhenj\Downloads\Coding Projects\AppointmentSchedulingApplication\bin\Debug\BouncyCastle.Crypto.dll
+C:\Users\jhenj\Downloads\Coding Projects\AppointmentSchedulingApplication\bin\Debug\Google.Protobuf.dll
+C:\Users\jhenj\Downloads\Coding Projects\AppointmentSchedulingApplication\bin\Debug\K4os.Compression.LZ4.dll
+C:\Users\jhenj\Downloads\Coding Projects\AppointmentSchedulingApplication\bin\Debug\K4os.Compression.LZ4.Streams.dll
+C:\Users\jhenj\Downloads\Coding Projects\AppointmentSchedulingApplication\bin\Debug\K4os.Hash.xxHash.dll
+C:\Users\jhenj\Downloads\Coding Projects\AppointmentSchedulingApplication\bin\Debug\MySql.Data.dll
+C:\Users\jhenj\Downloads\Coding Projects\AppointmentSchedulingApplication\bin\Debug\System.Buffers.dll
+C:\Users\jhenj\Downloads\Coding Projects\AppointmentSchedulingApplication\bin\Debug\System.Memory.dll
+C:\Users\jhenj\Downloads\Coding Projects\AppointmentSchedulingApplication\bin\Debug\System.Numerics.Vectors.dll
+C:\Users\jhenj\Downloads\Coding Projects\AppointmentSchedulingApplication\bin\Debug\System.Runtime.CompilerServices.Unsafe.dll
+C:\Users\jhenj\Downloads\Coding Projects\AppointmentSchedulingApplication\bin\Debug\Ubiety.Dns.Core.dll
+C:\Users\jhenj\Downloads\Coding Projects\AppointmentSchedulingApplication\bin\Debug\ZstdNet.dll
+C:\Users\jhenj\Downloads\Coding Projects\AppointmentSchedulingApplication\bin\Debug\BouncyCastle.Crypto.xml
+C:\Users\jhenj\Downloads\Coding Projects\AppointmentSchedulingApplication\bin\Debug\Google.Protobuf.pdb
+C:\Users\jhenj\Downloads\Coding Projects\AppointmentSchedulingApplication\bin\Debug\Google.Protobuf.xml
+C:\Users\jhenj\Downloads\Coding Projects\AppointmentSchedulingApplication\bin\Debug\K4os.Compression.LZ4.xml
+C:\Users\jhenj\Downloads\Coding Projects\AppointmentSchedulingApplication\bin\Debug\K4os.Compression.LZ4.Streams.xml
+C:\Users\jhenj\Downloads\Coding Projects\AppointmentSchedulingApplication\bin\Debug\K4os.Hash.xxHash.xml
+C:\Users\jhenj\Downloads\Coding Projects\AppointmentSchedulingApplication\bin\Debug\MySql.Data.xml
+C:\Users\jhenj\Downloads\Coding Projects\AppointmentSchedulingApplication\bin\Debug\System.Buffers.xml
+C:\Users\jhenj\Downloads\Coding Projects\AppointmentSchedulingApplication\bin\Debug\System.Memory.xml
+C:\Users\jhenj\Downloads\Coding Projects\AppointmentSchedulingApplication\bin\Debug\System.Numerics.Vectors.xml
+C:\Users\jhenj\Downloads\Coding Projects\AppointmentSchedulingApplication\bin\Debug\System.Runtime.CompilerServices.Unsafe.xml
+C:\Users\jhenj\Downloads\Coding Projects\AppointmentSchedulingApplication\obj\Debug\AppointmentSchedulingApplication.Properties.Resources.resources
+C:\Users\jhenj\Downloads\Coding Projects\AppointmentSchedulingApplication\obj\Debug\AppointmentSchedulingApplication.Views.AppointmentAdd.resources
+C:\Users\jhenj\Downloads\Coding Projects\AppointmentSchedulingApplication\obj\Debug\AppointmentSchedulingApplication.Views.AppointmentUpdate.resources
+C:\Users\jhenj\Downloads\Coding Projects\AppointmentSchedulingApplication\obj\Debug\AppointmentSchedulingApplication.Views.ApptTypeReport.resources
+C:\Users\jhenj\Downloads\Coding Projects\AppointmentSchedulingApplication\obj\Debug\AppointmentSchedulingApplication.Views.CustomerAdd.resources
+C:\Users\jhenj\Downloads\Coding Projects\AppointmentSchedulingApplication\obj\Debug\AppointmentSchedulingApplication.Views.CustomerUpdate.resources
+C:\Users\jhenj\Downloads\Coding Projects\AppointmentSchedulingApplication\obj\Debug\AppointmentSchedulingApplication.Views.Dashboard.resources
+C:\Users\jhenj\Downloads\Coding Projects\AppointmentSchedulingApplication\obj\Debug\AppointmentSchedulingApplication.Views.Login.resources
+C:\Users\jhenj\Downloads\Coding Projects\AppointmentSchedulingApplication\obj\Debug\AppointmentSchedulingApplication.Views.ConsultantSchedule.resources
+C:\Users\jhenj\Downloads\Coding Projects\AppointmentSchedulingApplication\obj\Debug\AppointmentSchedulingApplication.csproj.GenerateResource.cache
+C:\Users\jhenj\Downloads\Coding Projects\AppointmentSchedulingApplication\obj\Debug\AppointmentSchedulingApplication.csproj.CoreCompileInputs.cache
+C:\Users\jhenj\Downloads\Coding Projects\AppointmentSchedulingApplication\obj\Debug\AppointmentSchedulingApplication.csproj.CopyComplete
+C:\Users\jhenj\Downloads\Coding Projects\AppointmentSchedulingApplication\obj\Debug\AppointmentSchedulingApplication.exe
+C:\Users\jhenj\Downloads\Coding Projects\AppointmentSchedulingApplication\obj\Debug\AppointmentSchedulingApplication.pdb
+C:\Users\jhenj\Downloads\Coding Projects\AppointmentSchedulingApplication\obj\Debug\AppointmentSchedulingApplication.Views.CustomerNoAppts.resources
+C:\Users\jhenj\Downloads\Coding Projects\AppointmentSchedulingApplication\obj\Debug\AppointmentSchedulingApplication.csproj.AssemblyReference.cache
+C:\Users\LabUser\Downloads\AppointmentSchedulingApplication (2)\AppointmentSchedulingApplication\bin\Debug\AppointmentSchedulingApplication.exe.config
+C:\Users\LabUser\Downloads\AppointmentSchedulingApplication (2)\AppointmentSchedulingApplication\bin\Debug\AppointmentSchedulingApplication.exe
+C:\Users\LabUser\Downloads\AppointmentSchedulingApplication (2)\AppointmentSchedulingApplication\bin\Debug\AppointmentSchedulingApplication.pdb
+C:\Users\LabUser\Downloads\AppointmentSchedulingApplication (2)\AppointmentSchedulingApplication\bin\Debug\BouncyCastle.Crypto.dll
+C:\Users\LabUser\Downloads\AppointmentSchedulingApplication (2)\AppointmentSchedulingApplication\bin\Debug\Google.Protobuf.dll
+C:\Users\LabUser\Downloads\AppointmentSchedulingApplication (2)\AppointmentSchedulingApplication\bin\Debug\K4os.Compression.LZ4.dll
+C:\Users\LabUser\Downloads\AppointmentSchedulingApplication (2)\AppointmentSchedulingApplication\bin\Debug\K4os.Compression.LZ4.Streams.dll
+C:\Users\LabUser\Downloads\AppointmentSchedulingApplication (2)\AppointmentSchedulingApplication\bin\Debug\K4os.Hash.xxHash.dll
+C:\Users\LabUser\Downloads\AppointmentSchedulingApplication (2)\AppointmentSchedulingApplication\bin\Debug\MySql.Data.dll
+C:\Users\LabUser\Downloads\AppointmentSchedulingApplication (2)\AppointmentSchedulingApplication\bin\Debug\System.Buffers.dll
+C:\Users\LabUser\Downloads\AppointmentSchedulingApplication (2)\AppointmentSchedulingApplication\bin\Debug\System.Memory.dll
+C:\Users\LabUser\Downloads\AppointmentSchedulingApplication (2)\AppointmentSchedulingApplication\bin\Debug\System.Numerics.Vectors.dll
+C:\Users\LabUser\Downloads\AppointmentSchedulingApplication (2)\AppointmentSchedulingApplication\bin\Debug\System.Runtime.CompilerServices.Unsafe.dll
+C:\Users\LabUser\Downloads\AppointmentSchedulingApplication (2)\AppointmentSchedulingApplication\bin\Debug\Ubiety.Dns.Core.dll
+C:\Users\LabUser\Downloads\AppointmentSchedulingApplication (2)\AppointmentSchedulingApplication\bin\Debug\ZstdNet.dll
+C:\Users\LabUser\Downloads\AppointmentSchedulingApplication (2)\AppointmentSchedulingApplication\bin\Debug\BouncyCastle.Crypto.xml
+C:\Users\LabUser\Downloads\AppointmentSchedulingApplication (2)\AppointmentSchedulingApplication\bin\Debug\Google.Protobuf.pdb
+C:\Users\LabUser\Downloads\AppointmentSchedulingApplication (2)\AppointmentSchedulingApplication\bin\Debug\Google.Protobuf.xml
+C:\Users\LabUser\Downloads\AppointmentSchedulingApplication (2)\AppointmentSchedulingApplication\bin\Debug\K4os.Compression.LZ4.xml
+C:\Users\LabUser\Downloads\AppointmentSchedulingApplication (2)\AppointmentSchedulingApplication\bin\Debug\K4os.Compression.LZ4.Streams.xml
+C:\Users\LabUser\Downloads\AppointmentSchedulingApplication (2)\AppointmentSchedulingApplication\bin\Debug\K4os.Hash.xxHash.xml
+C:\Users\LabUser\Downloads\AppointmentSchedulingApplication (2)\AppointmentSchedulingApplication\bin\Debug\MySql.Data.xml
+C:\Users\LabUser\Downloads\AppointmentSchedulingApplication (2)\AppointmentSchedulingApplication\bin\Debug\System.Buffers.xml
+C:\Users\LabUser\Downloads\AppointmentSchedulingApplication (2)\AppointmentSchedulingApplication\bin\Debug\System.Memory.xml
+C:\Users\LabUser\Downloads\AppointmentSchedulingApplication (2)\AppointmentSchedulingApplication\bin\Debug\System.Numerics.Vectors.xml
+C:\Users\LabUser\Downloads\AppointmentSchedulingApplication (2)\AppointmentSchedulingApplication\bin\Debug\System.Runtime.CompilerServices.Unsafe.xml
+C:\Users\LabUser\Downloads\AppointmentSchedulingApplication (2)\AppointmentSchedulingApplication\obj\Debug\AppointmentSchedulingApplication.csproj.AssemblyReference.cache
+C:\Users\LabUser\Downloads\AppointmentSchedulingApplication (2)\AppointmentSchedulingApplication\obj\Debug\AppointmentSchedulingApplication.Properties.Resources.resources
+C:\Users\LabUser\Downloads\AppointmentSchedulingApplication (2)\AppointmentSchedulingApplication\obj\Debug\AppointmentSchedulingApplication.Views.AppointmentAdd.resources
+C:\Users\LabUser\Downloads\AppointmentSchedulingApplication (2)\AppointmentSchedulingApplication\obj\Debug\AppointmentSchedulingApplication.Views.AppointmentUpdate.resources
+C:\Users\LabUser\Downloads\AppointmentSchedulingApplication (2)\AppointmentSchedulingApplication\obj\Debug\AppointmentSchedulingApplication.Views.ApptTypeReport.resources
+C:\Users\LabUser\Downloads\AppointmentSchedulingApplication (2)\AppointmentSchedulingApplication\obj\Debug\AppointmentSchedulingApplication.Views.CustomerAdd.resources
+C:\Users\LabUser\Downloads\AppointmentSchedulingApplication (2)\AppointmentSchedulingApplication\obj\Debug\AppointmentSchedulingApplication.Views.CustomerNoAppts.resources
+C:\Users\LabUser\Downloads\AppointmentSchedulingApplication (2)\AppointmentSchedulingApplication\obj\Debug\AppointmentSchedulingApplication.Views.CustomerUpdate.resources
+C:\Users\LabUser\Downloads\AppointmentSchedulingApplication (2)\AppointmentSchedulingApplication\obj\Debug\AppointmentSchedulingApplication.Views.Dashboard.resources
+C:\Users\LabUser\Downloads\AppointmentSchedulingApplication (2)\AppointmentSchedulingApplication\obj\Debug\AppointmentSchedulingApplication.Views.Login.resources
+C:\Users\LabUser\Downloads\AppointmentSchedulingApplication (2)\AppointmentSchedulingApplication\obj\Debug\AppointmentSchedulingApplication.Views.ConsultantSchedule.resources
+C:\Users\LabUser\Downloads\AppointmentSchedulingApplication (2)\AppointmentSchedulingApplication\obj\Debug\AppointmentSchedulingApplication.csproj.GenerateResource.cache
+C:\Users\LabUser\Downloads\AppointmentSchedulingApplication (2)\AppointmentSchedulingApplication\obj\Debug\AppointmentSchedulingApplication.csproj.CoreCompileInputs.cache
+C:\Users\LabUser\Downloads\AppointmentSchedulingApplication (2)\AppointmentSchedulingApplication\obj\Debug\AppointmentSchedulingApplication.csproj.CopyComplete
+C:\Users\LabUser\Downloads\AppointmentSchedulingApplication (2)\AppointmentSchedulingApplication\obj\Debug\AppointmentSchedulingApplication.exe
+C:\Users\LabUser\Downloads\AppointmentSchedulingApplication (2)\AppointmentSchedulingApplication\obj\Debug\AppointmentSchedulingApplication.pdb
+C:\Users\jhenj\Downloads\School Courses\Software II - Advanced C# - C969\WGU_C969_Jeni_Mobley\AppointmentSchedulingApplication\bin\Debug\AppointmentSchedulingApplication.exe.config
+C:\Users\jhenj\Downloads\School Courses\Software II - Advanced C# - C969\WGU_C969_Jeni_Mobley\AppointmentSchedulingApplication\bin\Debug\AppointmentSchedulingApplication.exe
+C:\Users\jhenj\Downloads\School Courses\Software II - Advanced C# - C969\WGU_C969_Jeni_Mobley\AppointmentSchedulingApplication\bin\Debug\AppointmentSchedulingApplication.pdb
+C:\Users\jhenj\Downloads\School Courses\Software II - Advanced C# - C969\WGU_C969_Jeni_Mobley\AppointmentSchedulingApplication\bin\Debug\BouncyCastle.Crypto.dll
+C:\Users\jhenj\Downloads\School Courses\Software II - Advanced C# - C969\WGU_C969_Jeni_Mobley\AppointmentSchedulingApplication\bin\Debug\Google.Protobuf.dll
+C:\Users\jhenj\Downloads\School Courses\Software II - Advanced C# - C969\WGU_C969_Jeni_Mobley\AppointmentSchedulingApplication\bin\Debug\K4os.Compression.LZ4.dll
+C:\Users\jhenj\Downloads\School Courses\Software II - Advanced C# - C969\WGU_C969_Jeni_Mobley\AppointmentSchedulingApplication\bin\Debug\K4os.Compression.LZ4.Streams.dll
+C:\Users\jhenj\Downloads\School Courses\Software II - Advanced C# - C969\WGU_C969_Jeni_Mobley\AppointmentSchedulingApplication\bin\Debug\K4os.Hash.xxHash.dll
+C:\Users\jhenj\Downloads\School Courses\Software II - Advanced C# - C969\WGU_C969_Jeni_Mobley\AppointmentSchedulingApplication\bin\Debug\MySql.Data.dll
+C:\Users\jhenj\Downloads\School Courses\Software II - Advanced C# - C969\WGU_C969_Jeni_Mobley\AppointmentSchedulingApplication\bin\Debug\System.Buffers.dll
+C:\Users\jhenj\Downloads\School Courses\Software II - Advanced C# - C969\WGU_C969_Jeni_Mobley\AppointmentSchedulingApplication\bin\Debug\System.Memory.dll
+C:\Users\jhenj\Downloads\School Courses\Software II - Advanced C# - C969\WGU_C969_Jeni_Mobley\AppointmentSchedulingApplication\bin\Debug\System.Numerics.Vectors.dll
+C:\Users\jhenj\Downloads\School Courses\Software II - Advanced C# - C969\WGU_C969_Jeni_Mobley\AppointmentSchedulingApplication\bin\Debug\System.Runtime.CompilerServices.Unsafe.dll
+C:\Users\jhenj\Downloads\School Courses\Software II - Advanced C# - C969\WGU_C969_Jeni_Mobley\AppointmentSchedulingApplication\bin\Debug\Ubiety.Dns.Core.dll
+C:\Users\jhenj\Downloads\School Courses\Software II - Advanced C# - C969\WGU_C969_Jeni_Mobley\AppointmentSchedulingApplication\bin\Debug\ZstdNet.dll
+C:\Users\jhenj\Downloads\School Courses\Software II - Advanced C# - C969\WGU_C969_Jeni_Mobley\AppointmentSchedulingApplication\bin\Debug\BouncyCastle.Crypto.xml
+C:\Users\jhenj\Downloads\School Courses\Software II - Advanced C# - C969\WGU_C969_Jeni_Mobley\AppointmentSchedulingApplication\bin\Debug\Google.Protobuf.pdb
+C:\Users\jhenj\Downloads\School Courses\Software II - Advanced C# - C969\WGU_C969_Jeni_Mobley\AppointmentSchedulingApplication\bin\Debug\Google.Protobuf.xml
+C:\Users\jhenj\Downloads\School Courses\Software II - Advanced C# - C969\WGU_C969_Jeni_Mobley\AppointmentSchedulingApplication\bin\Debug\K4os.Compression.LZ4.xml
+C:\Users\jhenj\Downloads\School Courses\Software II - Advanced C# - C969\WGU_C969_Jeni_Mobley\AppointmentSchedulingApplication\bin\Debug\K4os.Compression.LZ4.Streams.xml
+C:\Users\jhenj\Downloads\School Courses\Software II - Advanced C# - C969\WGU_C969_Jeni_Mobley\AppointmentSchedulingApplication\bin\Debug\K4os.Hash.xxHash.xml
+C:\Users\jhenj\Downloads\School Courses\Software II - Advanced C# - C969\WGU_C969_Jeni_Mobley\AppointmentSchedulingApplication\bin\Debug\MySql.Data.xml
+C:\Users\jhenj\Downloads\School Courses\Software II - Advanced C# - C969\WGU_C969_Jeni_Mobley\AppointmentSchedulingApplication\bin\Debug\System.Buffers.xml
+C:\Users\jhenj\Downloads\School Courses\Software II - Advanced C# - C969\WGU_C969_Jeni_Mobley\AppointmentSchedulingApplication\bin\Debug\System.Memory.xml
+C:\Users\jhenj\Downloads\School Courses\Software II - Advanced C# - C969\WGU_C969_Jeni_Mobley\AppointmentSchedulingApplication\bin\Debug\System.Numerics.Vectors.xml
+C:\Users\jhenj\Downloads\School Courses\Software II - Advanced C# - C969\WGU_C969_Jeni_Mobley\AppointmentSchedulingApplication\bin\Debug\System.Runtime.CompilerServices.Unsafe.xml
+C:\Users\jhenj\Downloads\School Courses\Software II - Advanced C# - C969\WGU_C969_Jeni_Mobley\AppointmentSchedulingApplication\obj\Debug\AppointmentSchedulingApplication.csproj.AssemblyReference.cache
+C:\Users\jhenj\Downloads\School Courses\Software II - Advanced C# - C969\WGU_C969_Jeni_Mobley\AppointmentSchedulingApplication\obj\Debug\AppointmentSchedulingApplication.Properties.Resources.resources
+C:\Users\jhenj\Downloads\School Courses\Software II - Advanced C# - C969\WGU_C969_Jeni_Mobley\AppointmentSchedulingApplication\obj\Debug\AppointmentSchedulingApplication.Views.AppointmentAdd.resources
+C:\Users\jhenj\Downloads\School Courses\Software II - Advanced C# - C969\WGU_C969_Jeni_Mobley\AppointmentSchedulingApplication\obj\Debug\AppointmentSchedulingApplication.Views.AppointmentUpdate.resources
+C:\Users\jhenj\Downloads\School Courses\Software II - Advanced C# - C969\WGU_C969_Jeni_Mobley\AppointmentSchedulingApplication\obj\Debug\AppointmentSchedulingApplication.Views.ApptTypeReport.resources
+C:\Users\jhenj\Downloads\School Courses\Software II - Advanced C# - C969\WGU_C969_Jeni_Mobley\AppointmentSchedulingApplication\obj\Debug\AppointmentSchedulingApplication.Views.CustomerAdd.resources
+C:\Users\jhenj\Downloads\School Courses\Software II - Advanced C# - C969\WGU_C969_Jeni_Mobley\AppointmentSchedulingApplication\obj\Debug\AppointmentSchedulingApplication.Views.CustomerNoAppts.resources
+C:\Users\jhenj\Downloads\School Courses\Software II - Advanced C# - C969\WGU_C969_Jeni_Mobley\AppointmentSchedulingApplication\obj\Debug\AppointmentSchedulingApplication.Views.CustomerUpdate.resources
+C:\Users\jhenj\Downloads\School Courses\Software II - Advanced C# - C969\WGU_C969_Jeni_Mobley\AppointmentSchedulingApplication\obj\Debug\AppointmentSchedulingApplication.Views.Dashboard.resources
+C:\Users\jhenj\Downloads\School Courses\Software II - Advanced C# - C969\WGU_C969_Jeni_Mobley\AppointmentSchedulingApplication\obj\Debug\AppointmentSchedulingApplication.Views.Login.resources
+C:\Users\jhenj\Downloads\School Courses\Software II - Advanced C# - C969\WGU_C969_Jeni_Mobley\AppointmentSchedulingApplication\obj\Debug\AppointmentSchedulingApplication.Views.ConsultantSchedule.resources
+C:\Users\jhenj\Downloads\School Courses\Software II - Advanced C# - C969\WGU_C969_Jeni_Mobley\AppointmentSchedulingApplication\obj\Debug\AppointmentSchedulingApplication.csproj.GenerateResource.cache
+C:\Users\jhenj\Downloads\School Courses\Software II - Advanced C# - C969\WGU_C969_Jeni_Mobley\AppointmentSchedulingApplication\obj\Debug\AppointmentSchedulingApplication.csproj.CoreCompileInputs.cache
+C:\Users\jhenj\Downloads\School Courses\Software II - Advanced C# - C969\WGU_C969_Jeni_Mobley\AppointmentSchedulingApplication\obj\Debug\AppointmentSchedulingApplication.csproj.CopyComplete
+C:\Users\jhenj\Downloads\School Courses\Software II - Advanced C# - C969\WGU_C969_Jeni_Mobley\AppointmentSchedulingApplication\obj\Debug\AppointmentSchedulingApplication.exe
+C:\Users\jhenj\Downloads\School Courses\Software II - Advanced C# - C969\WGU_C969_Jeni_Mobley\AppointmentSchedulingApplication\obj\Debug\AppointmentSchedulingApplication.pdb
+C:\Users\jzenj\Downloads\School Courses\Software II - Advanced C# - C969\WGU_C969_Jeni_Mobley\AppointmentSchedulingApplication\bin\Debug\AppointmentSchedulingApplication.exe.config
+C:\Users\jzenj\Downloads\School Courses\Software II - Advanced C# - C969\WGU_C969_Jeni_Mobley\AppointmentSchedulingApplication\bin\Debug\AppointmentSchedulingApplication.exe
+C:\Users\jzenj\Downloads\School Courses\Software II - Advanced C# - C969\WGU_C969_Jeni_Mobley\AppointmentSchedulingApplication\bin\Debug\AppointmentSchedulingApplication.pdb
+C:\Users\jzenj\Downloads\School Courses\Software II - Advanced C# - C969\WGU_C969_Jeni_Mobley\AppointmentSchedulingApplication\bin\Debug\BouncyCastle.Crypto.dll
+C:\Users\jzenj\Downloads\School Courses\Software II - Advanced C# - C969\WGU_C969_Jeni_Mobley\AppointmentSchedulingApplication\bin\Debug\Google.Protobuf.dll
+C:\Users\jzenj\Downloads\School Courses\Software II - Advanced C# - C969\WGU_C969_Jeni_Mobley\AppointmentSchedulingApplication\bin\Debug\K4os.Compression.LZ4.dll
+C:\Users\jzenj\Downloads\School Courses\Software II - Advanced C# - C969\WGU_C969_Jeni_Mobley\AppointmentSchedulingApplication\bin\Debug\K4os.Compression.LZ4.Streams.dll
+C:\Users\jzenj\Downloads\School Courses\Software II - Advanced C# - C969\WGU_C969_Jeni_Mobley\AppointmentSchedulingApplication\bin\Debug\K4os.Hash.xxHash.dll
+C:\Users\jzenj\Downloads\School Courses\Software II - Advanced C# - C969\WGU_C969_Jeni_Mobley\AppointmentSchedulingApplication\bin\Debug\MySql.Data.dll
+C:\Users\jzenj\Downloads\School Courses\Software II - Advanced C# - C969\WGU_C969_Jeni_Mobley\AppointmentSchedulingApplication\bin\Debug\System.Buffers.dll
+C:\Users\jzenj\Downloads\School Courses\Software II - Advanced C# - C969\WGU_C969_Jeni_Mobley\AppointmentSchedulingApplication\bin\Debug\System.Memory.dll
+C:\Users\jzenj\Downloads\School Courses\Software II - Advanced C# - C969\WGU_C969_Jeni_Mobley\AppointmentSchedulingApplication\bin\Debug\System.Numerics.Vectors.dll
+C:\Users\jzenj\Downloads\School Courses\Software II - Advanced C# - C969\WGU_C969_Jeni_Mobley\AppointmentSchedulingApplication\bin\Debug\System.Runtime.CompilerServices.Unsafe.dll
+C:\Users\jzenj\Downloads\School Courses\Software II - Advanced C# - C969\WGU_C969_Jeni_Mobley\AppointmentSchedulingApplication\bin\Debug\Ubiety.Dns.Core.dll
+C:\Users\jzenj\Downloads\School Courses\Software II - Advanced C# - C969\WGU_C969_Jeni_Mobley\AppointmentSchedulingApplication\bin\Debug\ZstdNet.dll
+C:\Users\jzenj\Downloads\School Courses\Software II - Advanced C# - C969\WGU_C969_Jeni_Mobley\AppointmentSchedulingApplication\bin\Debug\BouncyCastle.Crypto.xml
+C:\Users\jzenj\Downloads\School Courses\Software II - Advanced C# - C969\WGU_C969_Jeni_Mobley\AppointmentSchedulingApplication\bin\Debug\Google.Protobuf.pdb
+C:\Users\jzenj\Downloads\School Courses\Software II - Advanced C# - C969\WGU_C969_Jeni_Mobley\AppointmentSchedulingApplication\bin\Debug\Google.Protobuf.xml
+C:\Users\jzenj\Downloads\School Courses\Software II - Advanced C# - C969\WGU_C969_Jeni_Mobley\AppointmentSchedulingApplication\bin\Debug\K4os.Compression.LZ4.xml
+C:\Users\jzenj\Downloads\School Courses\Software II - Advanced C# - C969\WGU_C969_Jeni_Mobley\AppointmentSchedulingApplication\bin\Debug\K4os.Compression.LZ4.Streams.xml
+C:\Users\jzenj\Downloads\School Courses\Software II - Advanced C# - C969\WGU_C969_Jeni_Mobley\AppointmentSchedulingApplication\bin\Debug\K4os.Hash.xxHash.xml
+C:\Users\jzenj\Downloads\School Courses\Software II - Advanced C# - C969\WGU_C969_Jeni_Mobley\AppointmentSchedulingApplication\bin\Debug\MySql.Data.xml
+C:\Users\jzenj\Downloads\School Courses\Software II - Advanced C# - C969\WGU_C969_Jeni_Mobley\AppointmentSchedulingApplication\bin\Debug\System.Buffers.xml
+C:\Users\jzenj\Downloads\School Courses\Software II - Advanced C# - C969\WGU_C969_Jeni_Mobley\AppointmentSchedulingApplication\bin\Debug\System.Memory.xml
+C:\Users\jzenj\Downloads\School Courses\Software II - Advanced C# - C969\WGU_C969_Jeni_Mobley\AppointmentSchedulingApplication\bin\Debug\System.Numerics.Vectors.xml
+C:\Users\jzenj\Downloads\School Courses\Software II - Advanced C# - C969\WGU_C969_Jeni_Mobley\AppointmentSchedulingApplication\bin\Debug\System.Runtime.CompilerServices.Unsafe.xml
+C:\Users\jzenj\Downloads\School Courses\Software II - Advanced C# - C969\WGU_C969_Jeni_Mobley\AppointmentSchedulingApplication\obj\Debug\AppointmentSchedulingApplication.csproj.AssemblyReference.cache
+C:\Users\jzenj\Downloads\School Courses\Software II - Advanced C# - C969\WGU_C969_Jeni_Mobley\AppointmentSchedulingApplication\obj\Debug\AppointmentSchedulingApplication.Properties.Resources.resources
+C:\Users\jzenj\Downloads\School Courses\Software II - Advanced C# - C969\WGU_C969_Jeni_Mobley\AppointmentSchedulingApplication\obj\Debug\AppointmentSchedulingApplication.Views.AppointmentAdd.resources
+C:\Users\jzenj\Downloads\School Courses\Software II - Advanced C# - C969\WGU_C969_Jeni_Mobley\AppointmentSchedulingApplication\obj\Debug\AppointmentSchedulingApplication.Views.AppointmentUpdate.resources
+C:\Users\jzenj\Downloads\School Courses\Software II - Advanced C# - C969\WGU_C969_Jeni_Mobley\AppointmentSchedulingApplication\obj\Debug\AppointmentSchedulingApplication.Views.ApptTypeReport.resources
+C:\Users\jzenj\Downloads\School Courses\Software II - Advanced C# - C969\WGU_C969_Jeni_Mobley\AppointmentSchedulingApplication\obj\Debug\AppointmentSchedulingApplication.Views.CustomerAdd.resources
+C:\Users\jzenj\Downloads\School Courses\Software II - Advanced C# - C969\WGU_C969_Jeni_Mobley\AppointmentSchedulingApplication\obj\Debug\AppointmentSchedulingApplication.Views.CustomerNoAppts.resources
+C:\Users\jzenj\Downloads\School Courses\Software II - Advanced C# - C969\WGU_C969_Jeni_Mobley\AppointmentSchedulingApplication\obj\Debug\AppointmentSchedulingApplication.Views.CustomerUpdate.resources
+C:\Users\jzenj\Downloads\School Courses\Software II - Advanced C# - C969\WGU_C969_Jeni_Mobley\AppointmentSchedulingApplication\obj\Debug\AppointmentSchedulingApplication.Views.Dashboard.resources
+C:\Users\jzenj\Downloads\School Courses\Software II - Advanced C# - C969\WGU_C969_Jeni_Mobley\AppointmentSchedulingApplication\obj\Debug\AppointmentSchedulingApplication.Views.Login.resources
+C:\Users\jzenj\Downloads\School Courses\Software II - Advanced C# - C969\WGU_C969_Jeni_Mobley\AppointmentSchedulingApplication\obj\Debug\AppointmentSchedulingApplication.Views.ConsultantSchedule.resources
+C:\Users\jzenj\Downloads\School Courses\Software II - Advanced C# - C969\WGU_C969_Jeni_Mobley\AppointmentSchedulingApplication\obj\Debug\AppointmentSchedulingApplication.csproj.GenerateResource.cache
+C:\Users\jzenj\Downloads\School Courses\Software II - Advanced C# - C969\WGU_C969_Jeni_Mobley\AppointmentSchedulingApplication\obj\Debug\AppointmentSchedulingApplication.csproj.CoreCompileInputs.cache
+C:\Users\jzenj\Downloads\School Courses\Software II - Advanced C# - C969\WGU_C969_Jeni_Mobley\AppointmentSchedulingApplication\obj\Debug\AppointmentSchedulingApplication.csproj.CopyComplete
+C:\Users\jzenj\Downloads\School Courses\Software II - Advanced C# - C969\WGU_C969_Jeni_Mobley\AppointmentSchedulingApplication\obj\Debug\AppointmentSchedulingApplication.exe
+C:\Users\jzenj\Downloads\School Courses\Software II - Advanced C# - C969\WGU_C969_Jeni_Mobley\AppointmentSchedulingApplication\obj\Debug\AppointmentSchedulingApplication.pdb
+C:\Users\jzenj\Downloads\School Courses\Software II - Advanced C# - C969\WGU_C969_Jeni_Mobley\AppointmentSchedulingApplication\obj\Debug\AppointmentSchedulingApplication.csproj.SuggestedBindingRedirects.cache
