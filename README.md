@@ -7,4 +7,4 @@ Appointment scheduling application written in C# and MySQL for a school project.
 * Incorrect login credentials
 
 
-... Currently working on implementing MVP design pattern for this project
+
